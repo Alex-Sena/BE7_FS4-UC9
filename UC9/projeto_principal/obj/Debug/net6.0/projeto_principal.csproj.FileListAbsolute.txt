@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\bin\Debug\net6.0\projeto_principal.exe
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\bin\Debug\net6.0\projeto_principal.deps.json
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\bin\Debug\net6.0\projeto_principal.runtimeconfig.json
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\bin\Debug\net6.0\projeto_principal.dll
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\bin\Debug\net6.0\projeto_principal.pdb
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\projeto_principal.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\projeto_principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\projeto_principal.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\projeto_principal.AssemblyInfo.cs
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\projeto_principal.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\projeto_principal.dll
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\refint\projeto_principal.dll
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\projeto_principal.pdb
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\projeto_principal.genruntimeconfig.cache
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC9\sa2\ERSA2\BE7_FS4_UC9\projeto_principal\obj\Debug\net6.0\ref\projeto_principal.dll
